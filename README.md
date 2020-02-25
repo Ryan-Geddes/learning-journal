@@ -6,3 +6,4 @@ this is my readme
 * typewriter
 * hamburger
 *i think this line is invisible
+## IT TURNS OUT IT IS NOT INVISIBLE.  WHAT HAPPENS WHEN I PRESS 'BLAME'
