@@ -32,3 +32,16 @@ why didn't that work
 [oh lol I mistyped a bracket](https://www.markdownguide.org/cheat-sheet/)
 # Growth Mindset:
 ## What it means to me
+A growth mindset is one that embraces failure, learns through constant play, and experiments through trial and error.
+
+GROWTH MINDSET DOS AND DON'TS:
+- [x] keep a good attitude
+- [x] remember to have fun
+- [x] race it, break it, fix 
+- [ ] be super negative 
+- [x] you are smart enough to do this!
+- [x] there are so many people who want to help you and see you succeed!
+- [ ] you will never understand this you should just stick to sales
+
+**this is a site you have bookmarked for future reference:** [getting started on github](https://guides.github.com/features/pages/)
+
