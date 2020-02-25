@@ -21,3 +21,5 @@ this is my readme
 1. THE 1 1 1 LIST TRICK
 
 #the invisible line is no longer green and red I think it was just showing that way because oh wait Ryan just said it's a preview and the red is what it was, green is the new update that makes sense dope.
+
+###### this sentence also has 6 hashtags in front of it, did the other one not work because it's in the middle of a list?
