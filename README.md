@@ -29,5 +29,6 @@ this is my readme
 why didn't that work
 [title](https://www.example.com)
 
+[oh lol I mistyped a bracket](https://www.markdownguide.org/cheat-sheet/)
 # Growth Mindset:
 ## What it means to me
