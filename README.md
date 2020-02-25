@@ -19,3 +19,5 @@ this is my readme
 1. TO
 1. TRY
 1. THE 1 1 1 LIST TRICK
+
+#the invisible line is no longer green and red I think it was just showing that way because oh wait Ryan just said it's a preview and the red is what it was, green is the new update that makes sense dope.
