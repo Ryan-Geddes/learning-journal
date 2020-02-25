@@ -5,5 +5,12 @@ this is my readme
 * banana
 * typewriter
 * hamburger
-*i think this line is invisible
-## IT TURNS OUT IT IS NOT INVISIBLE.  WHAT HAPPENS WHEN I PRESS 'BLAME'
+*i think this line is invisible*
+## IT TURNS OUT IT IS NOT INVISIBLE IT IS JUST ITALICIZED FOR SOME REASON.  WHAT HAPPENS WHEN I PRESS 'BLAME'
+
+1. It shows you a list of changes made to the file and who entered it and when
+2. YOU CAN'T HIDE ANYTHING I WILL FIND YOU AND BLAME YOU
+
+######THIS SENTENCE HAS 6 HASHTAGS IN FRONT OF IT
+
+3. I PUT ANOTHER STAR AND NOW THE INVISIBLE LINE HAS DOUBLED AND IS GREEN AND RED
