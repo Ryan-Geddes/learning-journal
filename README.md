@@ -45,3 +45,4 @@ GROWTH MINDSET DOS AND DON'TS:
 
 **this is a site you have bookmarked for future reference:** [getting started on github](https://guides.github.com/features/pages/)
 
+![burt](https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_1439,w_2560,x_0,y_0/dpr_1.5/c_limit,w_908/fl_lossy,q_auto/v1492115385/articles/2016/03/21/burt-reynolds-on-old-pal-donald-trump-like-a-sheriff-that-s-quick-on-the-draw/160318-yamato-burt-reynolds-tease_igtxtw)
