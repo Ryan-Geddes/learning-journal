@@ -1,33 +1,8 @@
 # learning-journal
 this is my readme
 # THIS IS CODE I AM CODING I AM A GENIUS
-* this is a list of nouns I have coded into a list
-* banana
-* typewriter
-* hamburger
-*i think this line is invisible*
-## IT TURNS OUT IT IS NOT INVISIBLE IT IS JUST ITALICIZED FOR SOME REASON.  WHAT HAPPENS WHEN I PRESS 'BLAME'
 
-1. It shows you a list of changes made to the file and who entered it and when
-2. YOU CAN'T HIDE ANYTHING I WILL FIND YOU AND BLAME YOU
-
-######THIS SENTENCE HAS 6 HASHTAGS IN FRONT OF IT
-
-3. I PUT ANOTHER STAR AND NOW THE INVISIBLE LINE HAS DOUBLED AND IS GREEN AND RED
-1. I'M
-1. GOING
-1. TO
-1. TRY
-1. THE 1 1 1 LIST TRICK
-
-#the invisible line is no longer green and red I think it was just showing that way because oh wait Ryan just said it's a preview and the red is what it was, green is the new update that makes sense dope.
-
-###### this sentence also has 6 hashtags in front of it, did the other one not work because it's in the middle of a list?
-
-[this is a link to a website I found on google of basic markdown commands to hit the 5 minimum markdown requirement}(https://www.markdownguide.org/cheat-sheet/)
-
-why didn't that work
-[title](https://www.example.com)
+From Vigo, the main Russian fleet then approached Tangiers, Morocco, and lost contact with the Kamchatka for several days. The Kamchatka eventually rejoined the fleet and claimed that she had engaged three Japanese warships and fired over 300 shells: the ships she had actually fired at were a Swedish merchantman, a German trawler, and a French schooner. As the fleet left Tangiers, one ship accidentally severed the city's underwater telegraph cable with her anchor, preventing communications with Europe for four days.[10]
 
 [oh lol I mistyped a bracket](https://www.markdownguide.org/cheat-sheet/)
 # Growth Mindset:
