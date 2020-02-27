@@ -25,3 +25,4 @@ GROWTH MINDSET DOS AND DON'TS:
 
 This is a test of writing code on my laptop and pushing it to GITHUB.  This code was written in vscode.
 
+This is a second test of adding/committing/pushing code to GITHUB.
