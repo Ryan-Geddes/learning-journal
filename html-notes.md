@@ -10,3 +10,4 @@ You have the head so the body can function.  contains:
 - title
 
 ### Body
+Contains header, main, footer
