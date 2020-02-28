@@ -13,12 +13,12 @@ You have the head so the body can function.  contains:
 Contains header, main, footer
 
 What tags do we use?
-li header
-li main
-li footer
-li article
-li p
-li a
+- header
+- main
+- footer
+- article
+- p
+- a
 
 Do not use the following:
 br and hr
