@@ -3,8 +3,7 @@ Css stands for Cascading Style Sheets.  CSS is used to STYLE a webpage.  Often C
 
 ## Key Concepts
   - to aid in visualization, it helps to imagine an invisible box around each HTML element on your webpage.  You can manipulate these elements by using different CSS inputs.
-  Taylor took INCREDIBLE notes that are much better than anything I could summarize, so I've included them below;
-  
+ - Taylor took INCREDIBLE notes that are much better than anything I could summarize, so I've included them below;
   CSS allows you to create rules that control the way that each individual box - and the contents of that box - is presented.
 CSS workks by associating rules with HTML elements. These rules govern how the content of specified elements should be displayed. A CSS rule contains two parts: a selector and a declaration.
 CSS declarations sit inside curly brackets and each is made up of two parts - a property and a value separted by a colon. You can specificy several properties in one declaration, each separated by a semi-colon.
