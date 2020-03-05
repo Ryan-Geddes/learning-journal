@@ -10,6 +10,8 @@ this is my readme
 - [Loops](loop-notes.md)
 - [Css Notes](css-notes.md)
 - [js notes](js-notes.md)
+- [computer arch](computers.md)
+
 
 
 From Vigo, the main Russian fleet then approached Tangiers, Morocco, and lost contact with the Kamchatka for several days. The Kamchatka eventually rejoined the fleet and claimed that she had engaged three Japanese warships and fired over 300 shells: the ships she had actually fired at were a Swedish merchantman, a German trawler, and a French schooner. As the fleet left Tangiers, one ship accidentally severed the city's underwater telegraph cable with her anchor, preventing communications with Europe for four days.[10]
