@@ -11,6 +11,7 @@ this is my readme
 - [Css Notes](css-notes.md)
 - [js notes](js-notes.md)
 - [computer arch](computers.md)
+ - [functions](functions.md)
 
 
 
