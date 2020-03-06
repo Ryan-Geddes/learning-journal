@@ -15,7 +15,11 @@ this is my readme
 
 
 
-From Vigo, the main Russian fleet then approached Tangiers, Morocco, and lost contact with the Kamchatka for several days. The Kamchatka eventually rejoined the fleet and claimed that she had engaged three Japanese warships and fired over 300 shells: the ships she had actually fired at were a Swedish merchantman, a German trawler, and a French schooner. As the fleet left Tangiers, one ship accidentally severed the city's underwater telegraph cable with her anchor, preventing communications with Europe for four days.[10]
+### Lessons learned for 201:
+- prereading and being familiar with the concepts BEFORE class starts is hugely helpful
+- take notetaking more seriously!
+- do not fall behind on the reading notetaking submission requirements, it is a pain to get caught back up
+- you WILL need to budget time outside of class to research concepts, finish labs, and practice
 
 [oh lol I mistyped a bracket](https://www.markdownguide.org/cheat-sheet/)
 # Growth Mindset:
