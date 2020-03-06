@@ -1,1 +1,10 @@
 
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>HTML excercise</title>
+    </head>
+    <body>
+       <p>This exercise covers basic HTML topics</p>
+    </body>
+</html>
